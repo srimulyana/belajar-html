@@ -22,9 +22,16 @@ td {
 .border1 {
   border-bottom: none;
 }
-h3 {
+span {
   color: rgb(238, 77, 45);
+  height: 30px;
+  display: inline-block;
+  vertical-align: middle;
 }
+
 p {
   color: rgb(109, 107, 107);
+}
+.shopee-logo {
+  width: 100px;
 }
